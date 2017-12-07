@@ -1,0 +1,21 @@
+{
+  "name": "nodeskool",
+  "version": "1.0.0",
+  "description": "Node Exercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node exercises/index.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "none yet"
+  },
+  "keywords": [
+    "node",
+    "school",
+    "exercises"
+  ],
+  "author": "",
+  "license": "ISC"
+}
